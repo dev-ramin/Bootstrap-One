@@ -5,3 +5,27 @@ header img{
 header{
     background: rgb(0, 99, 192);
 }
+.primary-menu{
+    margin-bottom: 0;
+}
+.primary-menu ul{
+    text-align: right;
+    margin-bottom: 0;
+}
+.primary-menu ul li{
+    display: inline-block;
+}
+.primary-menu ul li a{
+    display: block;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 0px 30px;
+    line-height: 67px;
+    text-decoration: none;
+}
+.primary-menu ul li a:hover{
+    color: white;
+    background-color: sienna;
+    border-radius: 0 0 25px 25px;
+    transition: .2s;
+}
