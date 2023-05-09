@@ -3,7 +3,7 @@ header img{
     height: auto;
 }
 header{
-    background: rgb(192, 93, 0);
+    background: #c05d00;
 }
 .primary-menu{
     margin-bottom: 0;
@@ -45,13 +45,13 @@ header{
 }
 .Welcome-two{
     color: aliceblue;
-    background-color: rgb(255, 149, 50);
+    background-color: #c05d00;
     padding: 10px 30px;
     border-radius: 0 10px 0 10px;
 }
 .fa-regular{
     color: aliceblue;
-    background-color: rgb(224, 94, 8);
+    background-color: #c05d00;
     font-size: 30px;
     padding: 10px 20px;
     border-radius: 20px 0 20px 0;
@@ -72,8 +72,10 @@ footer{
     margin: auto;
     color: aliceblue;
     width: 100%;
-    background-color: rgb(252, 125, 21);
+    background-color: #c05d00;
 }
 footer p{
+    font-size: 20px;
+    font-weight: 400;
     padding-top: 25px;
 }
